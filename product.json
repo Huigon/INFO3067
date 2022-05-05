@@ -1,0 +1,167 @@
+﻿[
+  {
+    "ID": "14X21",
+    "PRODUCT": "iPhone8",
+    "GRAPHIC": "iPhone8.png",
+    "COST": 699.9900,
+    "MSRP": 659.9900,
+    "HAND": 0,
+    "BACK": 5,
+    "DESC": "iPhone8 is 8th production by Apple, it was released in 2017.",
+    "BRAND": "Apple"
+  },
+  {
+    "ID": "14X22",
+    "PRODUCT": "iPhoneX",
+    "GRAPHIC": "iPhoneX.png",
+    "COST": 799.9900,
+    "MSRP": 849.9900,
+    "HAND": 0,
+    "BACK": 7,
+    "DESC": "iPhoneX is 9th production by Apple, it was released in 2018.",
+    "BRAND": "Apple"
+  },
+  {
+    "ID": "14X23",
+    "PRODUCT": "iPhone11",
+    "GRAPHIC": "iPhone11.png",
+    "COST": 899.9900,
+    "MSRP": 949.9900,
+    "HAND": 12,
+    "BACK": 0,
+    "DESC": "iPhone11 is 10th production by Apple, it was released in 2019.",
+    "BRAND": "Apple"
+  },
+  {
+    "ID": "14X24",
+    "PRODUCT": "iPhone12",
+    "GRAPHIC": "iPhone12.png",
+    "COST": 999.9900,
+    "MSRP": 1049.9900,
+    "HAND": 25,
+    "BACK": 0,
+    "DESC": "iPhone12 is 11st production by Apple, it was released in 2020.",
+    "BRAND": "Apple"
+  },
+  {
+    "ID": "14X25",
+    "PRODUCT": "iPhone13",
+    "GRAPHIC": "iPhone13.png",
+    "COST": 1099.9900,
+    "MSRP": 1149.9900,
+    "HAND": 0,
+    "BACK": 101,
+    "DESC": "iPhone13 is 12nd production by Apple, it was released in 2021.",
+    "BRAND": "Apple"
+  },
+  {
+    "ID": "15X21",
+    "PRODUCT": "Galaxy9",
+    "GRAPHIC": "galaxy9.png",
+    "COST": 649.9900,
+    "MSRP": 699.9900,
+    "HAND": 17,
+    "BACK": 0,
+    "DESC": "Galaxy9 is 9th production by Samsung, it was released in 2018.",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "15X22",
+    "PRODUCT": "Galaxy10",
+    "GRAPHIC": "galaxy10.png",
+    "COST": 749.9900,
+    "MSRP": 799.9900,
+    "HAND": 34,
+    "BACK": 0,
+    "DESC": "Galaxy10 is 10th production by Samsung, it was released in 2019.",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "15X23",
+    "PRODUCT": "Galaxy20",
+    "GRAPHIC": "galaxy20.png",
+    "COST": 849.9900,
+    "MSRP": 899.9900,
+    "HAND": 0,
+    "BACK": 59,
+    "DESC": "Galaxy20 is 11st production by Samsung, it was released in 2020.",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "15X24",
+    "PRODUCT": "Galaxy21",
+    "GRAPHIC": "galaxy21.png",
+    "COST": 949.9900,
+    "MSRP": 999.9900,
+    "HAND": 0,
+    "BACK": 77,
+    "DESC": "Galaxy21 is 12nd production by Samsung, it was released in 2021.",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "15X25",
+    "PRODUCT": "Galaxy22",
+    "GRAPHIC": "galaxy22.png",
+    "COST": 1049.9900,
+    "MSRP": 1099.9900,
+    "HAND": 50,
+    "BACK": 0,
+    "DESC": "Galaxy22 is 13rd production by Samsung, it was released in 2022.",
+    "BRAND": "Samsung"
+  },
+  {
+    "ID": "16X21",
+    "PRODUCT": "Pixel2",
+    "GRAPHIC": "pixel2.png",
+    "COST": 599.9900,
+    "MSRP": 649.9900,
+    "HAND": 20,
+    "BACK": 0,
+    "DESC": "Pixel2 is 5th production by Google, it was released in 2017.",
+    "BRAND": "Google"
+  },
+  {
+    "ID": "16X22",
+    "PRODUCT": "Pixel3",
+    "GRAPHIC": "pixel3.png",
+    "COST": 699.9900,
+    "MSRP": 749.9900,
+    "HAND": 11,
+    "BACK": 0,
+    "DESC": "Pixel3 is 6th production by Google, it was released in 2018.",
+    "BRAND": "Google"
+  },
+  {
+    "ID": "16X23",
+    "PRODUCT": "Pixel4",
+    "GRAPHIC": "pixel4.png",
+    "COST": 799.9900,
+    "MSRP": 849.9900,
+    "HAND": 51,
+    "BACK": 0,
+    "DESC": "Pixel4 is 7th production by Google, it was released in 2019.",
+    "BRAND": "Google"
+  },
+  {
+    "ID": "16X24",
+    "PRODUCT": "Pixel5",
+    "GRAPHIC": "pixel5.png",
+    "COST": 899.9900,
+    "MSRP": 949.9900,
+    "HAND": 1,
+    "BACK": 0,
+    "DESC": "Pixel5 is 8th production by Google, it was released in 2020.",
+    "BRAND": "Google"
+  },
+  {
+    "ID": "16X25",
+    "PRODUCT": "Pixel6",
+    "GRAPHIC": "pixel6.png",
+    "COST": 999.9900,
+    "MSRP": 1049.9900,
+    "HAND": 0,
+    "BACK": 4,
+    "DESC": "Pixel6 is 9th production by Google, it was released in 2021.",
+    "BRAND": "Google"
+  }
+]
