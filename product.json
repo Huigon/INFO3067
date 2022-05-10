@@ -7,7 +7,7 @@
     "MSRP": 659.9900,
     "HAND": 0,
     "BACK": 5,
-    "DESC": "iPhone8 is 8th production by Apple, it was released in 2017.",
+    "DESC": "138.4 x 67.3 x 7.3mm, Retina HD display, 4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology, 1334-by-750-pixel resolution at 326 ppi, A11 Bionic chip",
     "BRAND": "Apple"
   },
   {
@@ -18,7 +18,7 @@
     "MSRP": 849.9900,
     "HAND": 0,
     "BACK": 7,
-    "DESC": "iPhoneX is 9th production by Apple, it was released in 2018.",
+    "DESC": "143.6 x 70.9 x 7.7mm, Super Retina HD display, 5.8-inch (diagonal) all-screen OLED Multi-Touch display, HDR display, 2436-by-1125-pixel resolution at 458 ppi, A11 Bionic chip",
     "BRAND": "Apple"
   },
   {
@@ -29,7 +29,7 @@
     "MSRP": 949.9900,
     "HAND": 12,
     "BACK": 0,
-    "DESC": "iPhone11 is 10th production by Apple, it was released in 2019.",
+    "DESC": "150.9 x 75.7 x 8.3mm, Liquid Retina HD display, 6.1‑inch (diagonal) all-screen LCD Multi-Touch display with IPS technology, 1792‑by‑828‑pixel resolution at 326 ppi, A13 Bionic chip",
     "BRAND": "Apple"
   },
   {
@@ -40,7 +40,7 @@
     "MSRP": 1049.9900,
     "HAND": 25,
     "BACK": 0,
-    "DESC": "iPhone12 is 11st production by Apple, it was released in 2020.",
+    "DESC": "146.7 x 71.5 x 7.4mm, Super Retina XDR display, 6.1‑inch (diagonal) all‑screen OLED display, 2532‑by‑1170-pixel resolution at 460 ppi, A14 Bionic chip",
     "BRAND": "Apple"
   },
   {
@@ -51,7 +51,7 @@
     "MSRP": 1149.9900,
     "HAND": 0,
     "BACK": 101,
-    "DESC": "iPhone13 is 12nd production by Apple, it was released in 2021.",
+    "DESC": "146.7 x 71.5 x 7.65mm, Super Retina XDR display, 6.1‑inch (diagonal) all‑screen OLED display, 2532‑by‑1170-pixel resolution at 460 ppi, A15 Bionic chip",
     "BRAND": "Apple"
   },
   {
@@ -62,7 +62,7 @@
     "MSRP": 699.9900,
     "HAND": 17,
     "BACK": 0,
-    "DESC": "Galaxy9 is 9th production by Samsung, it was released in 2018.",
+    "DESC": "147.7 x 68.7 x 8.5 mm, Super AMOLED, HDR10, 5.8 inches, 84.8 cm2 (~83.6% screen-to-body ratio), 440 x 2960 pixels, 18.5:9 ratio (~570 ppi density), Exynos 9810 (10 nm)",
     "BRAND": "Samsung"
   },
   {
@@ -73,7 +73,7 @@
     "MSRP": 799.9900,
     "HAND": 34,
     "BACK": 0,
-    "DESC": "Galaxy10 is 10th production by Samsung, it was released in 2019.",
+    "DESC": "149.9 x 70.4 x 7.8 mm, Dynamic AMOLED, HDR10+, 6.1 inches, 93.2 cm2 (~88.3% screen-to-body ratio), 1440 x 3040 pixels, 19:9 ratio (~550 ppi density), Exynos 9820 (8 nm)",
     "BRAND": "Samsung"
   },
   {
@@ -84,7 +84,7 @@
     "MSRP": 899.9900,
     "HAND": 0,
     "BACK": 59,
-    "DESC": "Galaxy20 is 11st production by Samsung, it was released in 2020.",
+    "DESC": "151.7 x 69.1 x 7.9 mm, Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak), 6.2 inches, 93.8 cm2 (~89.5% screen-to-body ratio), 1440 x 3200 pixels, 20:9 ratio (~563 ppi density), Exynos 990 (7 nm+)",
     "BRAND": "Samsung"
   },
   {
@@ -95,7 +95,7 @@
     "MSRP": 999.9900,
     "HAND": 0,
     "BACK": 77,
-    "DESC": "Galaxy21 is 12nd production by Samsung, it was released in 2021.",
+    "DESC": "151.7 x 71.2 x 7.9 mm, Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak), 6.2 inches, 94.1 cm2 (~87.2% screen-to-body ratio), 1080 x 2400 pixels, 20:9 ratio (~421 ppi density), Exynos 2100 (5 nm)",
     "BRAND": "Samsung"
   },
   {
@@ -106,7 +106,7 @@
     "MSRP": 1099.9900,
     "HAND": 50,
     "BACK": 0,
-    "DESC": "Galaxy22 is 13rd production by Samsung, it was released in 2022.",
+    "DESC": "146 x 70.6 x 7.6 mm, Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak), 6.1 inches, 90.1 cm2 (~87.4% screen-to-body ratio), 1080 x 2340 pixels, 19.5:9 ratio (~425 ppi density), Exynos 2200 (4 nm)",
     "BRAND": "Samsung"
   },
   {
@@ -117,7 +117,7 @@
     "MSRP": 649.9900,
     "HAND": 20,
     "BACK": 0,
-    "DESC": "Pixel2 is 5th production by Google, it was released in 2017.",
+    "DESC": "145.7 x 69.7 x 7.8 mm, AMOLED, 5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio), 1080 x 1920 pixels, 16:9 ratio (~441 ppi density), Qualcomm MSM8998 Snapdragon 835 (10 nm)",
     "BRAND": "Google"
   },
   {
@@ -128,7 +128,7 @@
     "MSRP": 749.9900,
     "HAND": 11,
     "BACK": 0,
-    "DESC": "Pixel3 is 6th production by Google, it was released in 2018.",
+    "DESC": "145.6 x 68.2 x 7.9 mm, P-OLED, HDR, 5.5 inches, 76.7 cm2 (~77.2% screen-to-body ratio), 1080 x 2160 pixels, 18:9 ratio (~443 ppi density), Qualcomm SDM845 Snapdragon 845 (10 nm)",
     "BRAND": "Google"
   },
   {
@@ -139,7 +139,7 @@
     "MSRP": 849.9900,
     "HAND": 51,
     "BACK": 0,
-    "DESC": "Pixel4 is 7th production by Google, it was released in 2019.",
+    "DESC": "147.1 x 68.8 x 8.2 mm, P-OLED, 90Hz, HDR, 5.7 inches, 80.7 cm2 (~79.8% screen-to-body ratio), 1080 x 2280 pixels, 19:9 ratio (~444 ppi density), Qualcomm SM8150 Snapdragon 855 (7 nm)",
     "BRAND": "Google"
   },
   {
@@ -150,7 +150,7 @@
     "MSRP": 949.9900,
     "HAND": 1,
     "BACK": 0,
-    "DESC": "Pixel5 is 8th production by Google, it was released in 2020.",
+    "DESC": "144.7 x 70.4 x 8 mm, OLED, 90Hz, HDR10+, 6.0 inches, 87.6 cm2 (~85.9% screen-to-body ratio), 1080 x 2340 pixels, 19.5:9 ratio (~432 ppi density), Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
     "BRAND": "Google"
   },
   {
@@ -161,7 +161,7 @@
     "MSRP": 1049.9900,
     "HAND": 0,
     "BACK": 4,
-    "DESC": "Pixel6 is 9th production by Google, it was released in 2021.",
+    "DESC": "158.6 x 74.8 x 8.9 mm, AMOLED, 90Hz, HDR10+, 6.4 inches, 98.9 cm2 (~83.4% screen-to-body ratio), 1080 x 2400 pixels, 20:9 ratio (~411 ppi density), Google Tensor (5 nm)",
     "BRAND": "Google"
   }
 ]
